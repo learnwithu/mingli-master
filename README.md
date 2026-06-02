@@ -2,7 +2,7 @@
 
 ![](assets/musk-mingpan.png)
 
-> *「命盘显示可能性，行动决定现实」*
+> *「Elon Musk 的命盘示例」*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Standard-green)](https://agentskills.io)
@@ -162,7 +162,6 @@ LLM 排盘会犯错。紫微斗数排盘涉及：
 
 - [iztro](https://github.com/SylarLong/iztro) — 紫微斗数排盘 JavaScript 库（3648+ stars）
 - [iztro-py](https://github.com/spyfree/iztro-py) — 纯 Python iztro 实现
-- [女娲.skill](https://github.com/alchaincyf/nuwa-skill) — Skill 开源展示灵感
 
 ---
 
